@@ -6,6 +6,7 @@ import java.util.Random;
 public class Exec_jogo {
     public static void main(String[] args) {
         
+        int numero=0, randon = 0;
     }
     
 }
